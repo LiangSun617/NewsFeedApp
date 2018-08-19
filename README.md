@@ -88,7 +88,7 @@ When clicking an item in the news list, the App leads to opening the news articl
 
 ```
 
-<img src="images/app_list.png" width="300">
+<img src="images/app_list.PNG" width="300">
 
 #### list_item.xml
 
@@ -169,7 +169,7 @@ When clicking an item in the news list, the App leads to opening the news articl
 </LinearLayout>
 ```
 
-<img src="images/app_item.png" width="300">
+<img src="images/app_item.PNG" width="300">
 
 ---
 
